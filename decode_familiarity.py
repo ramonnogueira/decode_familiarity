@@ -20,6 +20,7 @@ from sklearn.model_selection import ShuffleSplit
 from sklearn.model_selection import KFold,StratifiedKFold,StratifiedShuffleSplit
 from google.colab import files
 import io
+nan=float('nan')
 
 #######################################################
 # Function to create figures
